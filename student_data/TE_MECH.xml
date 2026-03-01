@@ -1,0 +1,403 @@
+<?xml version="1.0" ?>
+<students>
+    <student>
+        <n>Mohit Bhat</n>
+        <roll_no>TE-MECH-001</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>9.62</cgpa>
+        <attendance>82.78</attendance>
+        <email>mohit.bhat@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Akash Thakur</n>
+        <roll_no>TE-MECH-002</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>8.63</cgpa>
+        <attendance>91.21</attendance>
+        <email>akash.thakur@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Chirag Pandey</n>
+        <roll_no>TE-MECH-003</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.43</cgpa>
+        <attendance>97.73</attendance>
+        <email>chirag.pandey@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Omkar Kumar</n>
+        <roll_no>TE-MECH-004</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>6.44</cgpa>
+        <attendance>75.61</attendance>
+        <email>omkar.kumar@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Karan Modi</n>
+        <roll_no>TE-MECH-005</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>9.03</cgpa>
+        <attendance>66.91</attendance>
+        <email>karan.modi@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Dipali Deshpande</n>
+        <roll_no>TE-MECH-006</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>6.64</cgpa>
+        <attendance>87.52</attendance>
+        <email>dipali.deshpande@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Ayush Tiwari</n>
+        <roll_no>TE-MECH-007</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.13</cgpa>
+        <attendance>65.02</attendance>
+        <email>ayush.tiwari@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Akash Mishra</n>
+        <roll_no>TE-MECH-008</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.75</cgpa>
+        <attendance>94.55</attendance>
+        <email>akash.mishra@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Ankit Singh</n>
+        <roll_no>TE-MECH-009</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>8.1</cgpa>
+        <attendance>66.74</attendance>
+        <email>ankit.singh@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Rushikesh Sawant</n>
+        <roll_no>TE-MECH-010</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>6.01</cgpa>
+        <attendance>78.33</attendance>
+        <email>rushikesh.sawant@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Ishan Jain</n>
+        <roll_no>TE-MECH-011</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.82</cgpa>
+        <attendance>60.05</attendance>
+        <email>ishan.jain@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Shweta Kale</n>
+        <roll_no>TE-MECH-012</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>8.29</cgpa>
+        <attendance>79.84</attendance>
+        <email>shweta.kale@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Vivek Kulkarni</n>
+        <roll_no>TE-MECH-013</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>8.5</cgpa>
+        <attendance>76.3</attendance>
+        <email>vivek.kulkarni@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Omkar Bankar</n>
+        <roll_no>TE-MECH-014</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.14</cgpa>
+        <attendance>82.38</attendance>
+        <email>omkar.bankar@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Jay Shukla</n>
+        <roll_no>TE-MECH-015</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.55</cgpa>
+        <attendance>68.84</attendance>
+        <email>jay.shukla@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Chirag Nair</n>
+        <roll_no>TE-MECH-016</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>8.07</cgpa>
+        <attendance>80.66</attendance>
+        <email>chirag.nair@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Aarav Surve</n>
+        <roll_no>TE-MECH-017</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>8.7</cgpa>
+        <attendance>60.27</attendance>
+        <email>aarav.surve@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Tushar Yadav</n>
+        <roll_no>TE-MECH-018</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.73</cgpa>
+        <attendance>74.25</attendance>
+        <email>tushar.yadav@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Om Wagh</n>
+        <roll_no>TE-MECH-019</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>8.96</cgpa>
+        <attendance>75.54</attendance>
+        <email>om.wagh@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Dhruv Singh</n>
+        <roll_no>TE-MECH-020</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.33</cgpa>
+        <attendance>82.24</attendance>
+        <email>dhruv.singh@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Vishal Agarwal</n>
+        <roll_no>TE-MECH-021</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>6.68</cgpa>
+        <attendance>85.86</attendance>
+        <email>vishal.agarwal@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Rasika Pandey</n>
+        <roll_no>TE-MECH-022</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.28</cgpa>
+        <attendance>89.78</attendance>
+        <email>rasika.pandey@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Omkar Verma</n>
+        <roll_no>TE-MECH-023</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.09</cgpa>
+        <attendance>81.09</attendance>
+        <email>omkar.verma@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Rohit Pillai</n>
+        <roll_no>TE-MECH-024</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.98</cgpa>
+        <attendance>89.42</attendance>
+        <email>rohit.pillai@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Abhinav Raut</n>
+        <roll_no>TE-MECH-025</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>6.09</cgpa>
+        <attendance>92.83</attendance>
+        <email>abhinav.raut@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Divya Raut</n>
+        <roll_no>TE-MECH-026</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>6.49</cgpa>
+        <attendance>89.76</attendance>
+        <email>divya.raut@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Parth Deshpande</n>
+        <roll_no>TE-MECH-027</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.22</cgpa>
+        <attendance>72.86</attendance>
+        <email>parth.deshpande@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Arnav Kumar</n>
+        <roll_no>TE-MECH-028</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.17</cgpa>
+        <attendance>84.16</attendance>
+        <email>arnav.kumar@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Deepak Singh</n>
+        <roll_no>TE-MECH-029</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.53</cgpa>
+        <attendance>82.81</attendance>
+        <email>deepak.singh@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Anand Thakur</n>
+        <roll_no>TE-MECH-030</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>7.15</cgpa>
+        <attendance>97.41</attendance>
+        <email>anand.thakur@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Tushar Nair</n>
+        <roll_no>TE-MECH-031</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>8.56</cgpa>
+        <attendance>82.7</attendance>
+        <email>tushar.nair@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Shweta Verma</n>
+        <roll_no>TE-MECH-032</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>8.25</cgpa>
+        <attendance>76.68</attendance>
+        <email>shweta.verma@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Nikhil Jagtap</n>
+        <roll_no>TE-MECH-033</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>9.5</cgpa>
+        <attendance>79.69</attendance>
+        <email>nikhil.jagtap@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Nakul Kulkarni</n>
+        <roll_no>TE-MECH-034</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>8.87</cgpa>
+        <attendance>79.4</attendance>
+        <email>nakul.kulkarni@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Rahul Agarwal</n>
+        <roll_no>TE-MECH-035</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>6.23</cgpa>
+        <attendance>61.37</attendance>
+        <email>rahul.agarwal@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Raj Mane</n>
+        <roll_no>TE-MECH-036</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>5.5</cgpa>
+        <attendance>65.98</attendance>
+        <email>raj.mane@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Ajinkya Reddy</n>
+        <roll_no>TE-MECH-037</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>8.38</cgpa>
+        <attendance>75.41</attendance>
+        <email>ajinkya.reddy@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Kajal Bhat</n>
+        <roll_no>TE-MECH-038</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>5.57</cgpa>
+        <attendance>86.74</attendance>
+        <email>kajal.bhat@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Deepak Shetty</n>
+        <roll_no>TE-MECH-039</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>6.72</cgpa>
+        <attendance>91.53</attendance>
+        <email>deepak.shetty@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Vijay Reddy</n>
+        <roll_no>TE-MECH-040</roll_no>
+        <branch>MECH</branch>
+        <year>TE</year>
+        <cgpa>9.64</cgpa>
+        <attendance>70.51</attendance>
+        <email>vijay.reddy@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+</students>

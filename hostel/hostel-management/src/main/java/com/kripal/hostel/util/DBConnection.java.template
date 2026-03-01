@@ -1,0 +1,37 @@
+// Copy this file to DBConnection.java and fill in your credentials
+// DBConnection.java is in .gitignore so your password is never committed
+
+package com.kripal.hostel.util;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class DBConnection {
+    private static final String DB_URL      = "jdbc:postgresql://localhost:5432/hostel_db";
+    private static final String DB_USER     = "postgres";
+    private static final String DB_PASSWORD = "YOUR_PASSWORD_HERE";  // ← change this
+
+    private static DBConnection instance;
+    private Connection connection;
+
+    private DBConnection() {
+        try {
+            this.connection = DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD);
+        } catch (SQLException e) {
+            throw new RuntimeException("DB connection failed: " + e.getMessage(), e);
+        }
+    }
+
+    public static DBConnection getInstance() {
+        if (instance == null) instance = new DBConnection();
+        return instance;
+    }
+
+    public Connection getConnection() { return connection; }
+
+    public void close() {
+        try { if (connection != null) connection.close(); }
+        catch (SQLException ignored) {}
+    }
+}

@@ -1,0 +1,403 @@
+<?xml version="1.0" ?>
+<students>
+    <student>
+        <n>Suraj Patel</n>
+        <roll_no>FE-COMP-B-001</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>8.41</cgpa>
+        <attendance>96.41</attendance>
+        <email>suraj.patel@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Abhinav Surve</n>
+        <roll_no>FE-COMP-B-002</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>6.35</cgpa>
+        <attendance>82.5</attendance>
+        <email>abhinav.surve@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Rohan Shah</n>
+        <roll_no>FE-COMP-B-003</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>8.5</cgpa>
+        <attendance>71.46</attendance>
+        <email>rohan.shah@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Harsh Patel</n>
+        <roll_no>FE-COMP-B-004</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>8.87</cgpa>
+        <attendance>73.19</attendance>
+        <email>harsh.patel@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Anurag Jagtap</n>
+        <roll_no>FE-COMP-B-005</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>7.09</cgpa>
+        <attendance>79.23</attendance>
+        <email>anurag.jagtap@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Varun Sharma</n>
+        <roll_no>FE-COMP-B-006</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>9.15</cgpa>
+        <attendance>91.25</attendance>
+        <email>varun.sharma@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Dhruv More</n>
+        <roll_no>FE-COMP-B-007</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>9.63</cgpa>
+        <attendance>84.15</attendance>
+        <email>dhruv.more@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Kapil Surve</n>
+        <roll_no>FE-COMP-B-008</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>6.16</cgpa>
+        <attendance>66.69</attendance>
+        <email>kapil.surve@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Tushar Mane</n>
+        <roll_no>FE-COMP-B-009</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>6.66</cgpa>
+        <attendance>90.71</attendance>
+        <email>tushar.mane@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Vinit Bankar</n>
+        <roll_no>FE-COMP-B-010</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>7.58</cgpa>
+        <attendance>76.55</attendance>
+        <email>vinit.bankar@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Sahil Menon</n>
+        <roll_no>FE-COMP-B-011</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>9.16</cgpa>
+        <attendance>91.57</attendance>
+        <email>sahil.menon@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Deepak Rao</n>
+        <roll_no>FE-COMP-B-012</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>9.29</cgpa>
+        <attendance>69.27</attendance>
+        <email>deepak.rao@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Manoj Patel</n>
+        <roll_no>FE-COMP-B-013</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>8.12</cgpa>
+        <attendance>74.4</attendance>
+        <email>manoj.patel@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Amit Salve</n>
+        <roll_no>FE-COMP-B-014</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>9.16</cgpa>
+        <attendance>66.91</attendance>
+        <email>amit.salve@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Parth Reddy</n>
+        <roll_no>FE-COMP-B-015</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>8.93</cgpa>
+        <attendance>72.93</attendance>
+        <email>parth.reddy@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Sanjay Shetty</n>
+        <roll_no>FE-COMP-B-016</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>5.54</cgpa>
+        <attendance>96.03</attendance>
+        <email>sanjay.shetty@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Chirag Dubey</n>
+        <roll_no>FE-COMP-B-017</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>8.6</cgpa>
+        <attendance>78.57</attendance>
+        <email>chirag.dubey@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Raj Wagh</n>
+        <roll_no>FE-COMP-B-018</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>7.55</cgpa>
+        <attendance>87.05</attendance>
+        <email>raj.wagh@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Hemant Patil</n>
+        <roll_no>FE-COMP-B-019</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>5.9</cgpa>
+        <attendance>68.42</attendance>
+        <email>hemant.patil@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Kavita Dubey</n>
+        <roll_no>FE-COMP-B-020</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>6.82</cgpa>
+        <attendance>82.1</attendance>
+        <email>kavita.dubey@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Umesh Reddy</n>
+        <roll_no>FE-COMP-B-021</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>7.33</cgpa>
+        <attendance>88.35</attendance>
+        <email>umesh.reddy@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Uday Reddy</n>
+        <roll_no>FE-COMP-B-022</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>8.52</cgpa>
+        <attendance>70.29</attendance>
+        <email>uday.reddy@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Manasi Tiwari</n>
+        <roll_no>FE-COMP-B-023</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>6.02</cgpa>
+        <attendance>67.32</attendance>
+        <email>manasi.tiwari@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Harsh Raut</n>
+        <roll_no>FE-COMP-B-024</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>7.8</cgpa>
+        <attendance>88.96</attendance>
+        <email>harsh.raut@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Juhi Mishra</n>
+        <roll_no>FE-COMP-B-025</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>6.43</cgpa>
+        <attendance>78.4</attendance>
+        <email>juhi.mishra@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Umesh Jain</n>
+        <roll_no>FE-COMP-B-026</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>6.72</cgpa>
+        <attendance>63.82</attendance>
+        <email>umesh.jain@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Nakul Nair</n>
+        <roll_no>FE-COMP-B-027</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>6.48</cgpa>
+        <attendance>66.82</attendance>
+        <email>nakul.nair@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Aditya Surve</n>
+        <roll_no>FE-COMP-B-028</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>7.8</cgpa>
+        <attendance>70.42</attendance>
+        <email>aditya.surve@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Arnav Shetty</n>
+        <roll_no>FE-COMP-B-029</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>6.76</cgpa>
+        <attendance>95.88</attendance>
+        <email>arnav.shetty@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Asmita Sawant</n>
+        <roll_no>FE-COMP-B-030</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>7.61</cgpa>
+        <attendance>93.16</attendance>
+        <email>asmita.sawant@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Shubham Pawar</n>
+        <roll_no>FE-COMP-B-031</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>7.56</cgpa>
+        <attendance>72.95</attendance>
+        <email>shubham.pawar@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Arnav Shukla</n>
+        <roll_no>FE-COMP-B-032</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>9.55</cgpa>
+        <attendance>78.15</attendance>
+        <email>arnav.shukla@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Ayush Bhosale</n>
+        <roll_no>FE-COMP-B-033</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>7.61</cgpa>
+        <attendance>81.93</attendance>
+        <email>ayush.bhosale@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Harshada Desai</n>
+        <roll_no>FE-COMP-B-034</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>6.15</cgpa>
+        <attendance>90.82</attendance>
+        <email>harshada.desai@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Nikita Mehta</n>
+        <roll_no>FE-COMP-B-035</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>9.77</cgpa>
+        <attendance>64.5</attendance>
+        <email>nikita.mehta@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Ankit Jain</n>
+        <roll_no>FE-COMP-B-036</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>8.06</cgpa>
+        <attendance>83.5</attendance>
+        <email>ankit.jain@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Shweta Bhat</n>
+        <roll_no>FE-COMP-B-037</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>7.14</cgpa>
+        <attendance>94.52</attendance>
+        <email>shweta.bhat@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Sumit Modi</n>
+        <roll_no>FE-COMP-B-038</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>9.76</cgpa>
+        <attendance>71.6</attendance>
+        <email>sumit.modi@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Ashish Agarwal</n>
+        <roll_no>FE-COMP-B-039</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>9.63</cgpa>
+        <attendance>63.77</attendance>
+        <email>ashish.agarwal@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Om Chavan</n>
+        <roll_no>FE-COMP-B-040</roll_no>
+        <branch>COMP</branch>
+        <year>FE</year>
+        <cgpa>6.41</cgpa>
+        <attendance>85.1</attendance>
+        <email>om.chavan@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+</students>

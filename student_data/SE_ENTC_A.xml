@@ -1,0 +1,403 @@
+<?xml version="1.0" ?>
+<students>
+    <student>
+        <n>Akash Sharma</n>
+        <roll_no>SE-ENTC-A-001</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>7.79</cgpa>
+        <attendance>75.63</attendance>
+        <email>akash.sharma@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Akash Bhat</n>
+        <roll_no>SE-ENTC-A-002</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>8.61</cgpa>
+        <attendance>80.36</attendance>
+        <email>akash.bhat@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Shubham Patil</n>
+        <roll_no>SE-ENTC-A-003</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>7.66</cgpa>
+        <attendance>86.52</attendance>
+        <email>shubham.patil@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Chetan Verma</n>
+        <roll_no>SE-ENTC-A-004</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>5.96</cgpa>
+        <attendance>63.66</attendance>
+        <email>chetan.verma@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Krishna Dubey</n>
+        <roll_no>SE-ENTC-A-005</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>6.33</cgpa>
+        <attendance>80.01</attendance>
+        <email>krishna.dubey@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Vikram Rao</n>
+        <roll_no>SE-ENTC-A-006</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>8.92</cgpa>
+        <attendance>63.0</attendance>
+        <email>vikram.rao@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Ajinkya Jadhav</n>
+        <roll_no>SE-ENTC-A-007</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>7.93</cgpa>
+        <attendance>97.63</attendance>
+        <email>ajinkya.jadhav@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Pranav Pillai</n>
+        <roll_no>SE-ENTC-A-008</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>8.44</cgpa>
+        <attendance>92.22</attendance>
+        <email>pranav.pillai@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Anand Mehta</n>
+        <roll_no>SE-ENTC-A-009</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>7.24</cgpa>
+        <attendance>74.33</attendance>
+        <email>anand.mehta@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Nitin Desai</n>
+        <roll_no>SE-ENTC-A-010</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>8.24</cgpa>
+        <attendance>86.71</attendance>
+        <email>nitin.desai@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Chirag Salve</n>
+        <roll_no>SE-ENTC-A-011</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>9.13</cgpa>
+        <attendance>84.51</attendance>
+        <email>chirag.salve@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Pooja Patel</n>
+        <roll_no>SE-ENTC-A-012</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>9.7</cgpa>
+        <attendance>97.01</attendance>
+        <email>pooja.patel@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Rahul Pandey</n>
+        <roll_no>SE-ENTC-A-013</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>9.38</cgpa>
+        <attendance>86.31</attendance>
+        <email>rahul.pandey@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Nitin Rao</n>
+        <roll_no>SE-ENTC-A-014</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>5.7</cgpa>
+        <attendance>62.83</attendance>
+        <email>nitin.rao@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Sanjay Hegde</n>
+        <roll_no>SE-ENTC-A-015</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>7.92</cgpa>
+        <attendance>61.25</attendance>
+        <email>sanjay.hegde@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Tanmay Patil</n>
+        <roll_no>SE-ENTC-A-016</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>9.63</cgpa>
+        <attendance>82.31</attendance>
+        <email>tanmay.patil@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Abhinav Joshi</n>
+        <roll_no>SE-ENTC-A-017</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>6.79</cgpa>
+        <attendance>81.43</attendance>
+        <email>abhinav.joshi@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Varsha Gaikwad</n>
+        <roll_no>SE-ENTC-A-018</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>8.41</cgpa>
+        <attendance>80.54</attendance>
+        <email>varsha.gaikwad@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Yogesh Sawant</n>
+        <roll_no>SE-ENTC-A-019</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>8.68</cgpa>
+        <attendance>90.04</attendance>
+        <email>yogesh.sawant@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Kavita Thakur</n>
+        <roll_no>SE-ENTC-A-020</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>5.84</cgpa>
+        <attendance>88.33</attendance>
+        <email>kavita.thakur@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Vijay Desai</n>
+        <roll_no>SE-ENTC-A-021</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>5.92</cgpa>
+        <attendance>68.82</attendance>
+        <email>vijay.desai@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Bharat Iyer</n>
+        <roll_no>SE-ENTC-A-022</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>8.1</cgpa>
+        <attendance>83.33</attendance>
+        <email>bharat.iyer@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Vrushali Bhosale</n>
+        <roll_no>SE-ENTC-A-023</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>9.67</cgpa>
+        <attendance>72.4</attendance>
+        <email>vrushali.bhosale@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Piyush Tiwari</n>
+        <roll_no>SE-ENTC-A-024</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>7.03</cgpa>
+        <attendance>95.76</attendance>
+        <email>piyush.tiwari@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Siddharth Dubey</n>
+        <roll_no>SE-ENTC-A-025</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>8.57</cgpa>
+        <attendance>63.12</attendance>
+        <email>siddharth.dubey@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Ishita Gaikwad</n>
+        <roll_no>SE-ENTC-A-026</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>8.56</cgpa>
+        <attendance>84.09</attendance>
+        <email>ishita.gaikwad@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Yogesh Menon</n>
+        <roll_no>SE-ENTC-A-027</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>7.05</cgpa>
+        <attendance>63.48</attendance>
+        <email>yogesh.menon@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Suraj Kadam</n>
+        <roll_no>SE-ENTC-A-028</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>7.05</cgpa>
+        <attendance>70.25</attendance>
+        <email>suraj.kadam@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Ishan Mehta</n>
+        <roll_no>SE-ENTC-A-029</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>6.31</cgpa>
+        <attendance>77.06</attendance>
+        <email>ishan.mehta@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Sanket Shinde</n>
+        <roll_no>SE-ENTC-A-030</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>5.94</cgpa>
+        <attendance>63.41</attendance>
+        <email>sanket.shinde@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Urmila Mehta</n>
+        <roll_no>SE-ENTC-A-031</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>8.07</cgpa>
+        <attendance>89.81</attendance>
+        <email>urmila.mehta@aitpune.edu.in</email>
+        <gender>F</gender>
+    </student>
+    <student>
+        <n>Yogesh Sharma</n>
+        <roll_no>SE-ENTC-A-032</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>6.75</cgpa>
+        <attendance>74.74</attendance>
+        <email>yogesh.sharma@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Chirag Thakur</n>
+        <roll_no>SE-ENTC-A-033</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>9.37</cgpa>
+        <attendance>94.4</attendance>
+        <email>chirag.thakur@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Rohan Patel</n>
+        <roll_no>SE-ENTC-A-034</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>7.74</cgpa>
+        <attendance>86.04</attendance>
+        <email>rohan.patel@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Lakshay Gupta</n>
+        <roll_no>SE-ENTC-A-035</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>6.66</cgpa>
+        <attendance>70.2</attendance>
+        <email>lakshay.gupta@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Karan Joshi</n>
+        <roll_no>SE-ENTC-A-036</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>6.22</cgpa>
+        <attendance>70.49</attendance>
+        <email>karan.joshi@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Bharat Naik</n>
+        <roll_no>SE-ENTC-A-037</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>6.58</cgpa>
+        <attendance>69.37</attendance>
+        <email>bharat.naik@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Nikhil Jadhav</n>
+        <roll_no>SE-ENTC-A-038</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>5.96</cgpa>
+        <attendance>71.58</attendance>
+        <email>nikhil.jadhav@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Abhinav Iyer</n>
+        <roll_no>SE-ENTC-A-039</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>9.12</cgpa>
+        <attendance>74.44</attendance>
+        <email>abhinav.iyer@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+    <student>
+        <n>Uday Kadam</n>
+        <roll_no>SE-ENTC-A-040</roll_no>
+        <branch>ENTC</branch>
+        <year>SE</year>
+        <cgpa>6.94</cgpa>
+        <attendance>90.99</attendance>
+        <email>uday.kadam@aitpune.edu.in</email>
+        <gender>M</gender>
+    </student>
+</students>
