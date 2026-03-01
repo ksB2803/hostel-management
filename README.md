@@ -328,7 +328,7 @@ Open `Main.java` in IntelliJ and click **▶ Run**.
 
 ## 📜 License
 
-MIT License — free to use for learning and placement preparation.
+MIT License — free to use for learning.
 
 ---
 
@@ -336,6 +336,5 @@ MIT License — free to use for learning and placement preparation.
 
 Made with ☕ by <a href="https://github.com/ksB2803">ksB2803</a> · AIT Pune
 
-⭐ Star this repo if it helped your placement prep!
 
 </div>
